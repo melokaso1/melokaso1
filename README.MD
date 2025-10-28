@@ -1,8 +1,8 @@
 <h1 align="center">Jhon Alejandro Escobar Lozada</h1>
-<h3 align="center">💻 Desarrollador de Software — Python & Frontend Developer</h3>
+<h3 align="center">💻 Desarrollador de Software — Python & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Python+%26+Web+Developer;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Backend+Developer;+Python+Node.js+MySQL;Especialista+en+APIs+REST+y+automatizaci%C3%B3n" alt="Typing SVG" />
 </p>
 
 ---
