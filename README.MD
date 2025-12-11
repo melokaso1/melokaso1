@@ -1,16 +1,15 @@
 <h1 align="center">Jhon Alejandro Escobar Lozada</h1>
-<h3 align="center">💻 Desarrollador de Software — Python & Backend Developer</h3>
+<h3 align="center">💻 Desarrollador de Software — Python & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Backend+Developer;+Python+Node.js+MySQL;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Full-Stack+Developer;Python+React+TypeScript+Node.js;" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,mysql,nodejs,git,vscode,netlify" alt="tech stack" height="44"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,mysql,nodejs,git,vscode,netlify" alt="tech stack" height="44"/>
 </p>
-
 
 ---
 
@@ -19,10 +18,12 @@
 ### **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### **Frameworks y Herramientas**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS v4](https://img.shields.io/badge/-TailwindCSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -87,6 +88,7 @@
 
 ## 🌱 Actualmente Aprendiendo
 
+- **React & TypeScript** - Desarrollo frontend moderno con tipado estático
 - **Node.js** - Desarrollo backend con JavaScript
 - **Tailwind CSS v4** - Frameworks de CSS modernos
 - **Deployment & DevOps** - Netlify, GitHub Pages
