@@ -1,36 +1,48 @@
 <h1 align="center">Jhon Alejandro Escobar Lozada</h1>
-<h3 align="center">💻 Desarrollador de Software — Python & Full-Stack Developer</h3>
+<h3 align="center">💻 Backend Developer — Python · C# · MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Full-Stack+Developer;Python+React+TypeScript+Node.js;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+C%23+%7C+APIs+REST;MySQL+%7C+Automatizaci%C3%B3n+%7C+L%C3%B3gica+de+Negocio" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,mysql,nodejs,git,vscode,netlify" alt="tech stack" height="44"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,nodejs,mysql,git,html,css,react,tailwind" alt="tech stack" height="44"/>
 </p>
 
 ---
 
 ## 🚀 Tecnologías y Habilidades
 
-### **Lenguajes de Programación**
+### **Backend**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### **Bases de Datos**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+
+#### MySQL Avanzado
+![Stored Procedures](https://img.shields.io/badge/-Stored%20Procedures-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Triggers](https://img.shields.io/badge/-Triggers-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Subconsultas](https://img.shields.io/badge/-Subconsultas-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cursores](https://img.shields.io/badge/-Cursores-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![UDF](https://img.shields.io/badge/-Funciones%20UDF-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **Frontend (Apoyo al Backend)**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Frameworks y Herramientas**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS v4](https://img.shields.io/badge/-TailwindCSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Warp Terminal](https://img.shields.io/badge/-Warp%20Terminal-01A4FF?style=flat-square&logo=warp&logoColor=white)
 
 ---
@@ -44,56 +56,78 @@
 
 ---
 
-## ✨ Proyectos Destacados
+## ✨ Proyectos Backend Destacados
 
-### 🏪 **Desarrollo Web & E-commerce**
-- **[LuxTime - Luxury Watches](https://luxtime-luxury.netlify.app/)** 🌐 **[Código](https://github.com/melokaso1/proyecto_luxTime)**
-  - Sitio web de lujo para relojes con diseño moderno
-  - Tecnologías: HTML5, CSS3, JavaScript, Tailwind CSS
-  - ✅ **Desplegado en Netlify**
+### 🎮 C# & .NET
+- **[Liga Betplay C#](https://github.com/melokaso1/ligaBetplay_C-)**  
+  Sistema de gestión de la Liga Betplay (Fútbol Profesional Colombiano) en C#.  
+  Tecnologías: C#, .NET · Rama activa: `develop`.
 
-### 🏫 **Gestión Empresarial**
-- **[Sistema de Gestión de Estudiantes](https://github.com/melokaso1/Proyecto_Python_Campus_Alejandro_Escobar_Manuel_Gomez)** 
-  - Aplicación completa en Python para administrar estudiantes de Campuslands
-  - Tecnologías: Python, Sistema de archivos
+- **[Taller C# — 32 Ejercicios](https://github.com/melokaso1/taller-CSharp-32-ejercicios)**  
+  Colección de ejercicios para fortalecer lógica de programación en C#.  
+  Tecnologías: C#.
 
-### 🏦 **Sistemas Financieros**
-- **[Gestor de Cuentas Bancarias (JSON)](https://github.com/melokaso1/gestion_cuentas_bancarias_json)**
-  - Sistema bancario usando JSON como base de datos
-  - Tecnologías: Python, JSON
-  
-- **[Gestor de Cuentas Bancarias](https://github.com/melokaso1/gestion_cuentas_bancarias)**
-  - Sistema de gestión bancaria con interfaz en Python
-  - Tecnologías: Python
+### 🗄️ MySQL & Modelado de Datos
+- **[MySQL2 — Proyecto Inmobiliaria](https://github.com/melokaso1/mysql2-proyecto-inmobiliaria)**  
+  Base de datos para gestión inmobiliaria con procedimientos almacenados, triggers y subconsultas.  
+  Tecnologías: MySQL, DBeaver.
 
-### 🌐 **Portafolios & Landing Pages**
-- **[Mi Portafolio](https://github.com/melokaso1/mi_portafolio)** 
-  - Portafolio personal desarrollado con HTML, CSS y JavaScript
-  
-- **[Landing Pages](https://github.com/melokaso1/landing-pages)**
-  - Colección de páginas de aterrizaje responsivas
-  - Tecnologías: HTML5, CSS3
+- **[MySQL Clínica Database](https://github.com/melokaso1/mysql_clinica_database)**  
+  Base de datos clínica con modelo relacional y consultas avanzadas.  
+  Tecnologías: MySQL, DBeaver.
 
-### 🏢 **Sistemas de Reservas**
-- **[Gestor de Coworking](https://github.com/melokaso1/Gestor-de-Reservas-de-Salas-de-Coworking-Python-Edition-)**
-  - Sistema completo para reserva de espacios de coworking
-  - Tecnologías: Python
+### 🧠 Lógica de Negocio y Automatización
+- **[Sistema de Gestión de Estudiantes](https://github.com/melokaso1/Proyecto_Python_Campus_Alejandro_Escobar_Manuel_Gomez)**  
+  Backend en Python para administrar estudiantes de Campuslands (CRUD, reportes, persistencia en archivos).  
+  Tecnologías: Python.
 
-### 🤖 **Automatización**
-- **[Bot de Discord](https://github.com/melokaso1/BotDiscord)**
-  - Bot automatizado para Discord desarrollado en Python
-  - Tecnologías: Python, Discord.py
+- **[Gestor de Coworking](https://github.com/melokaso1/Gestor-de-Reservas-de-Salas-de-Coworking-Python-Edition-)**  
+  Sistema para gestionar reservas de salas de coworking.  
+  Tecnologías: Python.
+
+- **[Gestor de Cuentas Bancarias (JSON)](https://github.com/melokaso1/gestion_cuentas_bancarias_json)**  
+  Simulador bancario usando JSON como almacenamiento.  
+  Tecnologías: Python, JSON.
+
+- **[Gestor de Cuentas Bancarias](https://github.com/melokaso1/gestion_cuentas_bancarias)**  
+  Gestión de cuentas bancarias con interfaz en Python.  
+  Tecnologías: Python.
+
+### 🤖 Automatización e Integraciones
+- **[AgendaBot — Bot de Telegram con IA](https://github.com/melokaso1/Proyecto_IA_Nivel1_EscobarAlejandro_Medina_Tomas)**  
+  Bot para organizar citas, tareas, hábitos y recordatorios con n8n y Google Sheets.  
+  Tecnologías: n8n, Google Sheets, Telegram API.
+
+---
+
+## 🌐 Proyectos con Frontend
+
+- **[ABC-LMS](https://github.com/melokaso1/ABC-LMS)**  
+  Plataforma LMS con foco en lógica de gestión académica.  
+  Tecnologías: JavaScript, HTML5, CSS3.
+- **[Dataset Editor App](https://github.com/melokaso1/datasetEditorApp)**  
+  Editor de datasets con conexión dinámica a APIs externas.  
+  Tecnologías: JavaScript.
+- **[Liga Betplay Web](https://github.com/melokaso1/ligaBetplay)**  
+  Web informativa sobre equipos del Fútbol Profesional Colombiano.  
+  Tecnologías: JavaScript, HTML5, CSS3.
+- **[LuxTime - Luxury Watches](https://luxtime-luxury.netlify.app/)** · **[Código](https://github.com/melokaso1/proyecto_luxTime)**  
+  Landing de e-commerce para relojes de lujo.  
+  Tecnologías: HTML5, CSS3, JavaScript, Tailwind CSS.
+- **[Landing Pages](https://github.com/melokaso1/landing-pages)**  
+  Colección de landing pages responsivas.  
+  Tecnologías: HTML5, CSS3.
 
 ---
 
 ## 🌱 Actualmente Aprendiendo
 
-- **React & TypeScript** - Desarrollo frontend moderno con tipado estático
-- **Node.js** - Desarrollo backend con JavaScript
-- **Tailwind CSS v4** - Frameworks de CSS modernos
-- **Deployment & DevOps** - Netlify, GitHub Pages
-- **MySQL** - Bases de datos relacionales
-- **Git Flow** - Mejores prácticas de control de versiones
+- Backend con **C# & .NET** (APIs, capas, buenas prácticas).
+- **MySQL avanzado** (SP, triggers, cursores, UDF, optimización de consultas).
+- **DBeaver** para administración de bases de datos.
+- Backend con **Node.js** y TypeScript.
+- **React** y frontend para consumir APIs de backend.
+- **Git Flow** y buenas prácticas de versionado.
 
 ---
 
@@ -101,16 +135,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=melokaso1&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🚀 Sitios Web en Vivo
-
-<p align="center">
-  <a href="https://luxtime-luxury.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-LuxTime%20Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
 </p>
 
 ---
