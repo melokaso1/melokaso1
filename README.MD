@@ -50,16 +50,13 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=melokaso1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    alt="Estadísticas de GitHub de melokaso1"
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melokaso1&layout=compact&theme=tokyonight"
-    alt="Lenguajes más usados de melokaso1"
-    height="180em"
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=melokaso1&theme=tokyonight&hide_border=false"
+      alt="Racha de contribuciones de melokaso1"
+      height="180em"
+    />
+  </a>
 </p>
 
 ---
@@ -102,7 +99,7 @@
   Tecnologías: Python.
 
 ### 🤖 Automatización e Integraciones
-- **[AgendaBot — Bot de Telegram con IA](https://github.com/melokaso1/Proyecto_IA_Nivel1_EscobarAlejandro_Medina_Tomas)**  
+- **[AgendaBot — Bot de Telegram con IA](https://github.com/melokaso1/Proyecto_IA_Nivel1_EscobarAlejandro_Escobar_Medina_Tomas)**  
   Bot para organizar citas, tareas, hábitos y recordatorios con n8n y Google Sheets.  
   Tecnologías: n8n, Google Sheets, Telegram API.
 
@@ -112,7 +109,7 @@
 
 - **[Mi Portafolio Web](https://alejandroescobarportafolio.netlify.app/)**  
   Portafolio personal donde presento mis proyectos backend en Python, C# y MySQL.  
-  Tecnologías: React, TypeScript, Tailwind CSS, Netlify.
+  Tecnologías: React, TypeScript, Tailwind CSS, Netlify.[web:40]
 
 - **[ABC-LMS](https://github.com/melokaso1/ABC-LMS)**  
   Plataforma LMS con foco en lógica de gestión académica.  
@@ -151,7 +148,7 @@
 - **DBeaver** para administración de bases de datos.
 - Backend con **Node.js** y TypeScript.
 - **React** y frontend para consumir APIs de backend.
-- **Git Flow** y buenas prácticas de versionado.
+- **Git Flow** y buenas prácticas de versionado.[file:17][file:18]
 
 ---
 
