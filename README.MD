@@ -1,52 +1,62 @@
-<!-- ======================= ENCABEZADO ANIMADO ======================= -->
+<!-- ================================================================ -->
+<!--                           HEADER                                 -->
+<!-- ================================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%C2%A1Hola!+Soy+Alejandro+Escobar+%F0%9F%91%8B;Backend+Developer+en+formaci%C3%B3n+%7C+.NET+%26+C%23;Construyendo+APIs%2C+bases+de+datos+y+soluciones+full-stack;Aprendiendo%2C+creando+y+mejorando+una+l%C3%ADnea+de+c%C3%B3digo+a+la+vez." alt="Typing SVG" />
+# Alejandro Escobar
+
+### Software Developer · .NET Backend · Full-Stack
 
 <br>
 
-<p>
-  <a href="https://github.com/melokaso1">
-    <img src="https://img.shields.io/badge/GitHub-melokaso1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Ubicación-Bucaramanga%2C%20Colombia-FCD116?style=for-the-badge&logo=googlemaps&logoColor=1F2937" alt="Ubicación">
-  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Full--Stack-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Enfoque">
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Construyo+APIs%2C+bases+de+datos+y+aplicaciones+web.;Backend+con+C%23%2C+.NET+y+arquitectura+de+software.;Integrando+frontend%2C+servicios%2C+automatizaci%C3%B3n+e+IA.;Siempre+mejorando+soluciones+una+l%C3%ADnea+de+c%C3%B3digo+a+la+vez."
+  alt="Presentación animada"
+/>
 
-<img src="https://komarev.com/ghpvc/?username=melokaso1&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil">
+<br><br>
+
+<a href="https://github.com/melokaso1">
+  <img src="https://img.shields.io/badge/GitHub-@melokaso1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<img src="https://img.shields.io/badge/Bucaramanga%2C%20Colombia-FCD116?style=for-the-badge&logo=googlemaps&logoColor=1F2937" alt="Ubicación">
+<img src="https://img.shields.io/badge/Backend%20%26%20Full--Stack-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Especialidad">
 
 </div>
 
----
+<br>
 
-<!-- ======================= SOBRE MÍ ======================= -->
+<!-- ================================================================ -->
+<!--                          SOBRE MÍ                                -->
+<!-- ================================================================ -->
 
 ## 👨🏻‍💻 Sobre mí
 
-Soy **Alejandro Escobar**, estudiante de programación y desarrollador de software en formación desde **Bucaramanga, Colombia** 🇨🇴.
+Soy desarrollador de software de **Bucaramanga, Colombia** 🇨🇴. Trabajo en la creación de soluciones prácticas, mantenibles y orientadas a resolver necesidades reales, participando en las distintas etapas de una aplicación: análisis, modelado de datos, lógica de negocio, APIs, interfaces web, integración de servicios, pruebas funcionales y documentación técnica.
 
-Me interesa construir soluciones prácticas y mantenibles, entendiendo todo el proceso: desde el **modelado de datos**, la lógica de negocio y las APIs, hasta las interfaces web, pruebas funcionales, documentación y despliegue de una aplicación.
-
-Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# y .NET**, arquitectura de aplicaciones, bases de datos relacionales y desarrollo full-stack con TypeScript. Me gusta trabajar en proyectos reales donde pueda transformar una necesidad en una solución organizada, funcional y escalable.
+Mi enfoque principal está en el desarrollo **backend con C# y .NET**, arquitectura de software, diseño de bases de datos relacionales y construcción de aplicaciones full-stack con TypeScript. He participado en proyectos de salud, inventario, gestión mecánica, transporte, automatización y aplicaciones web, tanto en repositorios propios como colaborativos.
 
 ```text
 💻 Backend .NET       → APIs REST, lógica de negocio y persistencia
 🗃️ Bases de datos     → Modelado relacional, SQL, consultas y migraciones
 🏗️ Arquitectura       → Clean Architecture, repositorios y Unit of Work
-🌐 Full-stack         → Integración de frontend, backend y servicios
+🌐 Full-Stack         → Integración de frontend, backend y servicios
 🧪 Calidad            → QA funcional, pruebas de vistas y endpoints
 🤖 Automatización/IA  → Chatbots, flujos de trabajo e integración de APIs
 ```
 
-- 🔭 He trabajado en sistemas de salud, inventario, gestión mecánica, transporte, automatización y aplicaciones web.
-- 🌱 Estoy profundizando en **ASP.NET Core**, **Entity Framework Core**, **Clean Architecture**, **PostgreSQL** y diseño de APIs REST.
-- 🧠 Me interesan las bases de datos, los patrones de diseño, el QA, la documentación técnica y la integración de inteligencia artificial.
-- ⚡ Disfruto aprender mediante proyectos prácticos, depurar problemas y mejorar productos existentes.
+- 🔭 Desarrollo y participo en sistemas de salud, inventario, gestión mecánica, transporte y automatización.
+- ⚙️ Trabajo con C#, .NET, ASP.NET Core, Entity Framework Core, SQL, TypeScript y APIs REST.
+- 🧠 Me interesan la arquitectura de software, el diseño de datos, el QA, la documentación técnica y la integración de IA.
+- 🌱 Sigo fortaleciendo mi experiencia con Clean Architecture, PostgreSQL, Oracle, pruebas e integración de servicios.
+- ⚡ Disfruto resolver problemas técnicos y construir productos con una base sólida.
 
 ---
 
-<!-- ======================= TECNOLOGÍAS ======================= -->
+<!-- ================================================================ -->
+<!--                        TECNOLOGÍAS                               -->
+<!-- ================================================================ -->
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -54,7 +64,7 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 
 ### Backend, arquitectura y APIs
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs&theme=dark" alt="Tecnologías backend">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs&theme=dark" alt="Backend">
 
 <br><br>
 
@@ -64,9 +74,13 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR">
 
+<br><br>
+
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind&theme=dark" alt="Tecnologías frontend">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind&theme=dark" alt="Frontend">
+
+<br><br>
 
 ### Bases de datos
 
@@ -78,6 +92,8 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgis&logoColor=white" alt="PostGIS">
 
+<br><br>
+
 ### Herramientas, calidad y flujo de trabajo
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma&theme=dark" alt="Herramientas">
@@ -87,13 +103,14 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
 <img src="https://img.shields.io/badge/QA%20Testing-1F6FEB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Testing">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
 </div>
 
 ---
 
-<!-- ======================= PROYECTOS PROPIOS ======================= -->
+<!-- ================================================================ -->
+<!--                       PROYECTOS PROPIOS                          -->
+<!-- ================================================================ -->
 
 ## 🚀 Proyectos propios destacados
 
@@ -105,11 +122,11 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
         Aplicación orientada a la gestión de información clínica, desarrollada con separación entre frontend y backend. Incluye manejo de pacientes, profesionales, citas, horarios, roles y notificaciones en tiempo real.
       </p>
       <p>
-        Mi trabajo abarcó lógica de negocio, diseño de entidades, DTOs, repositorios, casos de uso, endpoints, integración de frontend, validaciones, manejo de citas y notificaciones.
+        Trabajé en lógica de negocio, diseño de entidades, DTOs, repositorios, casos de uso, endpoints, validaciones, gestión de citas e integración frontend-backend.
       </p>
       <p>
-        <a href="https://github.com/melokaso1/HEALTLABS_BACKEND">🔗 Backend</a> ·
-        <a href="https://github.com/melokaso1/HEALTLAB_FRONTEND">🔗 Frontend</a>
+        <a href="https://github.com/melokaso1/HEALTLABS_BACKEND">Backend</a> ·
+        <a href="https://github.com/melokaso1/HEALTLAB_FRONTEND">Frontend</a>
       </p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
@@ -122,12 +139,12 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
         Ecosistema de gestión de inventario compuesto por backend, frontend y chatbot basado en LLM. Incluye catálogo, inventario, ventas, facturación, autenticación, paneles y una experiencia conversacional integrada.
       </p>
       <p>
-        Trabajé en APIs, persistencia con EF Core y PostgreSQL, endpoints CRUD, JWT, integración de chatbot, componentes frontend, gestión de estado e integración entre servicios.
+        Trabajé en APIs, persistencia con EF Core y PostgreSQL, JWT, endpoints CRUD, integración de chatbot, gestión de estado e integración entre servicios.
       </p>
       <p>
-        <a href="https://github.com/melokaso1/InteligentInventoryBackend">🔗 Backend</a> ·
-        <a href="https://github.com/melokaso1/InteligentInventoryFrontend">🔗 Frontend</a> ·
-        <a href="https://github.com/melokaso1/InteligentInventoryLLMChatBot">🔗 Chatbot</a>
+        <a href="https://github.com/melokaso1/InteligentInventoryBackend">Backend</a> ·
+        <a href="https://github.com/melokaso1/InteligentInventoryFrontend">Frontend</a> ·
+        <a href="https://github.com/melokaso1/InteligentInventoryLLMChatBot">Chatbot</a>
       </p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -142,10 +159,10 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
         Sistema para la gestión de un taller mecánico: usuarios, roles, vehículos, órdenes de servicio, reparaciones, pagos y paneles operativos.
       </p>
       <p>
-        Proyecto práctico para implementar arquitectura por capas, Entity Framework Core, autenticación JWT, control de acceso, persistencia y flujos de negocio.
+        Implementé arquitectura por capas, Entity Framework Core, autenticación JWT, control de acceso, persistencia y flujos de negocio.
       </p>
       <p>
-        <a href="https://github.com/melokaso1/Proyecto-EFCORE-gestion-mecanica">🔗 Ver repositorio</a>
+        <a href="https://github.com/melokaso1/Proyecto-EFCORE-gestion-mecanica">Ver repositorio</a>
       </p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core">
@@ -154,13 +171,13 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
     <td width="50%" valign="top">
       <h3>🤖 AgendaBot</h3>
       <p>
-        Bot de Telegram para organizar citas, tareas, hábitos y recordatorios de manera automática mediante flujos de automatización.
+        Bot de Telegram para organizar citas, tareas, hábitos y recordatorios mediante automatización de flujos.
       </p>
       <p>
-        El proyecto integra Telegram, n8n y Google Sheets para crear una solución práctica de productividad sin depender de servicios de pago.
+        Integra Telegram, n8n y Google Sheets para brindar una solución práctica de productividad.
       </p>
       <p>
-        <a href="https://github.com/melokaso1/Proyecto_IA_Nivel1_EscobarAlejandro_Medina_Tomas">🔗 Ver repositorio</a>
+        <a href="https://github.com/melokaso1/Proyecto_IA_Nivel1_EscobarAlejandro_Medina_Tomas">Ver repositorio</a>
       </p>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
@@ -171,18 +188,19 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 
 ### 📂 Más proyectos personales
 
-- 📝 [**ToDo con arquitectura hexagonal**](https://github.com/melokaso1/ToDo) — API y frontend para gestión de tareas, aplicando casos de uso, DTOs, patrón repositorio, PostgreSQL y Tailwind CSS.
-- 🗃️ [**Transporte DB Migrations**](https://github.com/melokaso1/Transporte_db_migrations) — Práctica de persistencia, evolución de esquemas y migraciones con C#.
+- 📝 [**ToDo con arquitectura hexagonal**](https://github.com/melokaso1/ToDo) — API y frontend para gestión de tareas con casos de uso, DTOs, patrón repositorio, PostgreSQL y Tailwind CSS.
+- 🗃️ [**Transporte DB Migrations**](https://github.com/melokaso1/Transporte_db_migrations) — Persistencia, evolución de esquemas y migraciones con C#.
 - 🏥 [**MySQL Clínica Database**](https://github.com/melokaso1/mysql_clinica_database) — Modelado relacional para un contexto clínico.
-- 🏠 [**Proyecto Inmobiliaria MySQL**](https://github.com/melokaso1/mysql2-proyecto-inmobiliaria) — Diseño de una base de datos y consultas para un sistema inmobiliario.
+- 🏠 [**Proyecto Inmobiliaria MySQL**](https://github.com/melokaso1/mysql2-proyecto-inmobiliaria) — Diseño de base de datos y consultas para un sistema inmobiliario.
 - 🌐 [**Portafolio React**](https://github.com/melokaso1/portafolio-react) — Portafolio web construido con React y TypeScript.
 - 📊 [**Dataset Editor App**](https://github.com/melokaso1/datasetEditorApp) — Editor de datasets con conexión dinámica a APIs.
 - 🐍 [**Gestor de reservas de coworking**](https://github.com/melokaso1/Gestor-de-Reservas-de-Salas-de-Coworking-Python-Edition-) — Aplicación de gestión de reservas desarrollada con Python.
-- 🎓 [**Gestión de estudiantes Campuslands**](https://github.com/melokaso1/Proyecto_Python_Campus_Alejandro_Escobar_Manuel_Gomez) — Sistema de gestión académica desarrollado en Python.
 
 ---
 
-<!-- ======================= PROYECTOS COLABORATIVOS ======================= -->
+<!-- ================================================================ -->
+<!--                     PROYECTOS COLABORATIVOS                      -->
+<!-- ================================================================ -->
 
 ## 🤝 Proyectos colaborativos
 
@@ -196,11 +214,11 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
         Participación en el backend de una plataforma de transporte para el área metropolitana de Bucaramanga.
       </p>
       <p>
-        Contribuí en una API basada en .NET y Clean Architecture, con autenticación JWT, documentación de endpoints, modelado de datos de transporte y funcionalidades de billetera, favoritos, compra/validación de tiquetes e historial de viajes.
+        Contribuí en una API basada en .NET y Clean Architecture, con autenticación JWT, documentación de endpoints, modelado de datos de transporte y funcionalidades de billetera, favoritos, compra y validación de tiquetes e historial de viajes.
       </p>
       <p>
         <a href="https://github.com/Tomfmp2/Sistemas-de-Transporte-Bumangu-s-S.T.B-Backend">
-          🔗 Ver repositorio colaborativo
+          Ver repositorio colaborativo
         </a>
       </p>
       <img src="https://img.shields.io/badge/Contribuidor-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Contribuidor">
@@ -218,7 +236,7 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
       </p>
       <p>
         <a href="https://github.com/Tomfmp2/MySQL-2-final-project">
-          🔗 Ver repositorio colaborativo
+          Ver repositorio colaborativo
         </a>
       </p>
       <img src="https://img.shields.io/badge/Contribuidor-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Contribuidor">
@@ -231,9 +249,11 @@ Actualmente enfoco mi aprendizaje y práctica en el desarrollo **backend con C# 
 
 ---
 
-<!-- ======================= APRENDIZAJE ======================= -->
+<!-- ================================================================ -->
+<!--                        ÁREAS DE TRABAJO                          -->
+<!-- ================================================================ -->
 
-## 📚 Áreas en las que sigo creciendo
+## 📚 Áreas de trabajo y crecimiento
 
 ```text
 Backend y arquitectura
@@ -242,7 +262,7 @@ Backend y arquitectura
 ├── Repository Pattern y Unit of Work
 ├── Entity Framework Core y persistencia de datos
 ├── Autenticación, autorización y JWT
-└── Integraciones entre servicios y notificaciones en tiempo real
+└── Integración de servicios y notificaciones en tiempo real
 
 Bases de datos
 ├── Modelado relacional y normalización
@@ -261,9 +281,11 @@ Frontend y calidad
 
 ---
 
-<!-- ======================= ESTADÍSTICAS ======================= -->
+<!-- ================================================================ -->
+<!--                         ESTADÍSTICAS                             -->
+<!-- ================================================================ -->
 
-## 📈 Estadísticas de GitHub
+## 📈 Actividad en GitHub
 
 <div align="center">
 
@@ -279,7 +301,9 @@ Frontend y calidad
 
 ---
 
-<!-- ======================= SNAKE ANIMADO ======================= -->
+<!-- ================================================================ -->
+<!--                         SNAKE ANIMADO                            -->
+<!-- ================================================================ -->
 
 ## 🐍 Actividad de contribuciones
 
@@ -289,26 +313,27 @@ Frontend y calidad
 
 </div>
 
-> Si el snake todavía no aparece, falta crear un workflow de GitHub Actions que genere el archivo SVG dentro de la carpeta `output`. Puedo prepararte ese workflow después de publicar este README.
-
 ---
 
-<!-- ======================= CIERRE ======================= -->
+<!-- ================================================================ -->
+<!--                          PIE DE PÁGINA                            -->
+<!-- ================================================================ -->
 
 <div align="center">
 
-## 📫 Conectemos
-
-<p>
-  <a href="https://github.com/melokaso1">
-    <img src="https://img.shields.io/badge/GitHub-@melokaso1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Construyendo%2C+aprendiendo+y+mejorando+una+l%C3%ADnea+de+c%C3%B3digo+a+la+vez.+%F0%9F%9A%80" alt="Frase final animada">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Construyendo+soluciones+con+una+base+s%C3%B3lida.+%F0%9F%9A%80;Siempre+aprendiendo%2C+siempre+mejorando."
+  alt="Mensaje final animado"
+/>
 
 <br><br>
 
-⭐ Si alguno de mis proyectos te parece interesante, ¡no dudes en revisarlo!
+<a href="https://github.com/melokaso1">
+  <img src="https://img.shields.io/badge/GitHub-@melokaso1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=melokaso1&label=Visitas%20al%20perfil&color=58A6FF&style=flat" alt="Visitas al perfil">
 
 </div>
